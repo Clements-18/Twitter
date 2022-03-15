@@ -50,6 +50,7 @@ The following **bonus** features are implemented:
 - [ ] User sees embedded images in tweet if available. (3pts)
 
 ## Video Walkthrough
+![Twitterezgif com-gif-maker (2)](https://user-images.githubusercontent.com/47756963/158298376-ba958e3c-658c-4c37-9428-65808b4d25d4.gif)
 
 Here's a walkthrough of implemented user stories:
 
